@@ -29,11 +29,10 @@ Save-anywhere
 Updates:
 - check for new versions on its own from the title/file-select screen and can install them with one click. No need to come back here for every future release.
 A handful of other quality-of-life settings in the same Config menu, reachable from the pause menu or file select.
-What's new in this release
 
-This is the first release meant for anyone to download and play, not just testers — so here's the full rundown of what's changed to get here:
+# Recent tweaks
 
-Setup got dramatically simpler. Earlier builds needed a separate Python toolchain to prepare game data from your ROM. The game now does that itself, automatically, on first launch — no Python, no extra steps. Every download is now also a single self-contained file per platform (previously Windows and macOS each needed a separate library file alongside the executable).
+Setup got dramatically simpler. Earlier builds needed a separate Python toolchain to prepare game data from your ROM. The game now does that itself, automatically, on first launch. Every download is now also a single self-contained file per platform (previously Windows and macOS each needed a separate library file alongside the executable).
 
 Added a Quit option to the file select screen, alongside Config and Check for Updates.
 
