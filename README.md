@@ -17,7 +17,9 @@ On first launch you'll see a short "Setting Up" window while it builds a game-da
 
 # Optional: higher-quality music (MSU-1)
 
-If you have an MSU-1 audio pack for EarthBound, drop its files into a folder named msu right next to the game. It's picked up automatically — turn it on or off any time from the Config menu's "HQ Audio" setting.
+If you have an MSU-1 audio pack for EarthBound, drop its files into a folder named msu right next to the game. 
+(you may have to create that folder yourself)
+turn it on or off any time from the Config menu's "HQ Audio" setting.
 
 # New Features
 
