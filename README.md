@@ -1,8 +1,9 @@
 # EarthBound Native
 
-A fan-made rebuild of EarthBound that runs natively on Windows, macOS, or Linux — no emulator required. The goal is to recreate the original SNES game faithfully, with a handful of modern, optional quality-of-life extras layered on top.
+A fan-made rebuild of EarthBound that runs natively on Windows, macOS, or Linux without emulation.
 
-You'll need your own EarthBound (USA) ROM file. No copyrighted game data is included in this download — the game builds everything it needs from your own ROM, locally, the first time it runs. Nothing is uploaded anywhere.
+You'll need your own EarthBound (USA) ROM file. 
+No copyrighted game data is included in this download.
 
 # Setup
 
