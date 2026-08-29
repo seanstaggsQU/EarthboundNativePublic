@@ -7,12 +7,12 @@ No copyrighted game data is included in this download.
 
 # Setup
 
-Download the zip for your platform below and extract it — you'll get a folder (EarthBound-Windows, EarthBound-macOS, or EarthBound-Linux).
+Download the zip for your platform from the Releases page and extract it. you'll get a folder (EarthBound-Windows, EarthBound-macOS, or EarthBound-Linux).
 Drop your EarthBound (USA) ROM file into that same folder.
-Run:
+Run!
 Windows: double-click earthbound-windows.exe
-macOS: double-click EarthBound.app. macOS will likely say it can't verify the app and offer only "Move to Trash".  Go to System Settings → Privacy & Security, scroll down, and click Open Anyway next to the EarthBound entry, then confirm. You only need to do this once.
-Linux/SteamDeck.SteamMachine: run earthbound-linux (if it won't run, right-click → Properties → Permissions → "Allow executing file as program", or chmod +x earthbound-linux in a terminal first — some archive tools don't preserve the executable flag)
+macOS: double-click EarthBound.app. macOS will likely say it can't verify the app and offer only "Move to Trash".  Go to System Settings > Privacy & Security, scroll down, and click Open Anyway next to the EarthBound entry, then confirm. You only need to do this once.
+Linux/SteamDeck.SteamMachine: run earthbound-linux (if it won't run, right-click > Properties > Permissions > "Allow executing file as program", or chmod +x earthbound-linux in a terminal first — some archive tools don't preserve the executable flag)
 On first launch you'll see a short "Setting Up" window while it builds a game-data pack from your ROM — usually under a minute. Every launch after that goes straight to the title screen.
 
 # Optional: higher-quality music (MSU-1)
